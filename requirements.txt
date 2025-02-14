@@ -1,0 +1,4 @@
+Flask
+camel-ai
+python-dotenv
+Pillow
